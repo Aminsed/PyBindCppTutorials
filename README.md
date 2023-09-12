@@ -55,7 +55,3 @@ Pybind11 can be used to create Python bindings for C++ code, which allows C++ co
     1. Case Study 1: Creating Bindings for a C++ Library
     2. Case Study 2: Speeding Up Python Code with C++
     3. Case Study 3: Creating a Python Extension
-
-9. **Conclusion**
-    - Recap of What You've Learned
-    - Next Steps for Using Pybind11
